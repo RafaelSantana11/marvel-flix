@@ -94,3 +94,11 @@ header nav a:hover {
   background-color: white;
   color: black;
 }
+
+/*CARROSSEL*/
+
+.box-movie {
+  height: 100%;
+  width: 100%;
+  display: block;
+}
