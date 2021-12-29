@@ -12,6 +12,7 @@
 body {
   background: var(--preta);
   font-family: 'Times New Roman', Times, serif;
+  color: white;
 }
 
 header .container {
@@ -35,4 +36,25 @@ header nav a {
 
 header nav a:hover {
   color: #fff;
+}
+
+/*FILME PRINCIPAL*/
+
+.main-movie {
+  font-size: 16px;
+  background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/spiderman-cover.jpg');
+  height: 400px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.main-movie .main-movie-title {
+  font-size: 70px;
+}
+
+.main-movie .buttons-container {
+  margin-top: 40px;
 }
