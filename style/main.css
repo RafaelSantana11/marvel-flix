@@ -25,7 +25,9 @@ header .logo {
   color: var(--vermelho);
   font-family: 'Arial Narrow Bold', Impact, Haettenschweiler, sans-serif;
   font-size: 40px;
-  margin-left: 5px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+
 }
 
 header nav a {
