@@ -20,10 +20,10 @@ Apesar da primeira versão ser simples, estática e de apenas uma página, prete
 
 As seguintes ferramentas e tecnologias foram usadas na construção do projeto:
 
-- [HTML][html]
-- [CSS3][css]
-- [JavaScript][javascript]
-- [Vscode][vscode]
+- HTML
+- CSS3
+- JavaScript
+- Vscode
 
 ## 💡 Como executar o projeto
 
